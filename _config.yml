@@ -1,8 +1,8 @@
 # Basic
-title: OneV's Den
-subtitle: 上善若水，人淡如菊
-welcome_message: ObjC 中国与 objc.io 合作最新作品<a href="https://objccn.io/products/" target="_blank">《函数式 Swift》,《Core Data》,《Swift 进阶》及《集合类型优化》已经发布</a>，<a href="https://www.boxueio.com/register/ec84c3dd183b0acc820d5eae474d499d">泊学网正在开展订阅赠书活动，也欢迎前往了解</a>
-description: 嗨，我是王巍 (@onevcat)，一名来自中国的 iOS / Unity 开发者。现居日本，就职于 LINE。正在修行，探求创意之源。
+title: Osean
+subtitle:  念念不忘，必有回响！
+welcome_message: <a></a>
+description: 嗨，我是李海涛 (osean)，一名来自中国的C++ 开发者。现居杭州，正在修行，探求创意之源。
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://onevcat.com"
@@ -26,7 +26,9 @@ nav:
 
 # Pagination
 plugins: [jekyll-paginate]
+#指定每页应显示的项目数
 paginate: 10
+#指定分页页面的目的地
 paginate_path: "page/:num/"
 
 # Comment
