@@ -1,11 +1,11 @@
 # Basic
 title: Osean
 subtitle:  念念不忘，必有回响！
-welcome_message: <a></a>
+welcome_message: <a>什么才是优秀戏剧的诀窍？ 掌握时机! 那什么是勇气呢？ 压力面前保持优雅。</a>
 description: 嗨，我是李海涛 (osean)，一名来自中国的C++ 开发者。现居杭州，正在修行，探求创意之源。
 creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "http://onevcat.com"
+#url: "http://onevcat.com"
 
 permalink: /:year/:month/:title/
 
@@ -20,9 +20,9 @@ blog_button:
     description: 访问博客
 
 nav:
-    - {title: 简历, description: 我的简历, url: 'https://onev.cat'}
-    - {title: 关于, description: 了解更多关于我, url: 'http://about.onevcat.com/'}
-    - {title: 订阅, description: 邮件订阅本站, url: '//store.objccn.io/subscribe'}
+    - {title: 简历, description: 我的简历, url: ''}
+    - {title: 关于, description: 了解更多关于我, url: ''}
+    - {title: 订阅, description: 邮件订阅本站, url: ''}
 
 # Pagination
 plugins: [jekyll-paginate]
@@ -37,13 +37,12 @@ comment:
     # duoshuo:
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo: osean
+    github: osean-li
+    twitter: osean
+    mail: osean_li@163.com
 
 # Google Analytics
 ga:
-    id: UA-25719337-1
-    host: onevcat.com
+    #id: UA-25719337-1
+    #host: onevcat.com
