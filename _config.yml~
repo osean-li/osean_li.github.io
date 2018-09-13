@@ -1,0 +1,48 @@
+# Basic
+title: Osean
+subtitle:  念念不忘，必有回响！
+welcome_message: <a>什么才是优秀戏剧的诀窍？ 掌握时机! 那什么是勇气呢？ 压力面前保持优雅。</a>
+description: 嗨，我是李海涛 (osean)，一名来自中国的C++ 开发者。现居杭州，正在修行，探求创意之源。
+creator: <a href="http://onev.cat">@onevcat</a>
+
+#url: "http://onevcat.com"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: green
+
+blog_button:
+    title: 博客
+    description: 访问博客
+
+nav:
+    - {title: 简历, description: 我的简历, url: ''}
+    - {title: 关于, description: 了解更多关于我, url: ''}
+    - {title: 订阅, description: 邮件订阅本站, url: ''}
+
+# Pagination
+plugins: [jekyll-paginate]
+#指定每页应显示的项目数
+paginate: 10
+#指定分页页面的目的地
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    disqus: onevcat
+    # duoshuo:
+# Social
+social:
+    jianshu: osean_li
+    github: osean-li
+    twitter: osean
+    mail: osean_li@163.com
+
+# Google Analytics
+ga:
+    id: UA-25719337-1
+    host: onevcat.com
